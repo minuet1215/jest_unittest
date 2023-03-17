@@ -1,0 +1,1 @@
+[Jest Manual](https://jestjs.io/docs/getting-started)
