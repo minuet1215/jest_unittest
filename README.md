@@ -1,5 +1,7 @@
 # JavaScript TDD (With Jest)
 
+https://indigo-pony-375.notion.site/Javascript-Jest-87d01d648a3b4535a7e57b60ccca0308
+
 <aside>
 💡 테스트의 정의와 유닛 테스트, 좋은 테스트 원칙과 TDD 실전을 기록한 내용입니다.
 - [*Jest Manual](https://jestjs.io/docs/getting-started)
